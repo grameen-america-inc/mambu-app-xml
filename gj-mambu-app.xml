@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<app>
+    <id>gj-mambu-app</id>
+    <name>GJ Transfer CM</name>
+    <provider>Grameen</provider>
+    <description>App integration with Mambu platform with GJ</description>
+    
+    <extensionpoint>
+        <location>CENTRE_VIEW</location>
+        <label>GJ Transfer CM</label>
+        <url>https://gj-qa-mambu-webapp.azurewebsites.net/app</url>
+    </extensionpoint>
+</app>
